@@ -6,6 +6,8 @@
 
 先写一下本文结构，后面会先介绍一下蓝桥杯和一些对于电智同学可能了解的一些简单介绍吧，然后是准备比赛的过程和一些笔记心得和学习记录以及一些账号，最后是结语祝福之类的可以吧。备注一下的话，我不喜欢贴表情，还有就是可以跳着看。
 
+> 本文网页：https://github.com/LeiZheng2005/SUST/blob/main/study/Competition/Lanqiao/More_Than_Lanqiao_Python_Note.md
+
 # 1.Lanqiao_Cup
 
 ## 1.1Competition
